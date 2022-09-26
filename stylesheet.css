@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Outfit");
+
+#image{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    width: auto;
+    height:auto;
+    
+}
+   
+#para2{
+    font-family:"Outfit";
+    font-size:"15px";
+    font-weight: 400;
+    color:hsl(212, 45%, 89%);
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+#para1{
+    font-family:"Outfit";
+    font-size:"15px";
+    font-weight:700;
+    color: hsl(218, 44%, 22%);
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    
+}
+
+div.main{
+    width: auto;
+    height:auto;
+    background-color: #8FBDD3;
+}
